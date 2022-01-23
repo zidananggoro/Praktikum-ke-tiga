@@ -1,0 +1,21 @@
+            10
+       /    \    \
+      30    20   40
+     / \     |
+   50   60   70
+
+
+  10 3 30 2 50 0 60 0 20 1 70 0 40 0
+
+  predesesor (J) = L,H,D
+  successor (D) = B,F,J,N
+  ancestor (J) = L,H
+  descendant (D) =B,A,C,F,E,G
+  parent(I) = J
+  child (L) =J,N
+  sibling(G) = -
+  degree(C) = 2
+  height = 3
+  root =H
+  leaf=A,C,E,G,I,K,M,O
+  size = 7
